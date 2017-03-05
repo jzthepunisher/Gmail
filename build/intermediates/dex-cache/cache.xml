@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\USUARIO\.android\build-cache\10ffe460681bd1bac3ef91e90e72d266c4359af8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="D:\AndroidCode\Gmail\app\build\intermediates\pre-dexed\debug\classes_a12c794dfee411334f9f074684080af4df51fd60.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USUARIO\.android\build-cache\ba9f5cb7e1643f8ccbdd466f35dd5d8119e15221\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="D:\AndroidCode\Gmail\app\build\intermediates\pre-dexed\debug\classes_73f08e1ad63f8cbb983810b4d794f30e274578b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USUARIO\.android\build-cache\05edde4c7e8cd1ec4bc96bc983505bfa548de4cc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="D:\AndroidCode\Gmail\app\build\intermediates\pre-dexed\debug\classes_066213da045e15b95ff10ad110bf2b3844e74271.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USUARIO\.android\build-cache\fee60a4d134cf1bb61e37eca40e6f169402e587a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="D:\AndroidCode\Gmail\app\build\intermediates\pre-dexed\debug\classes_bc46d712a9b2a12dc1f9d80854b7ba5153b9efdf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USUARIO\.android\build-cache\37ed71ee97cf4edd2088246990736b5461799c3d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="D:\AndroidCode\Gmail\app\build\intermediates\pre-dexed\debug\classes_f789ff8ae50a36a0a062b374d75a4e593856b85a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USUARIO\.android\build-cache\9abe48615ce277fca78f34a08f26832c6f077cb5\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="D:\AndroidCode\Gmail\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_fc85aab62f9701f4777092dd7f1ac6e1b4dc008b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USUARIO\.android\build-cache\05edde4c7e8cd1ec4bc96bc983505bfa548de4cc\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="D:\AndroidCode\Gmail\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_a2a7e1a86dcd248294fee8a0418f7d805853b2b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USUARIO\.android\build-cache\ca61a979f79ef8882aca8f2ee2684a3aa8356479\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="D:\AndroidCode\Gmail\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_72031367aef7fcc5e921f871a793897626f8b465.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USUARIO\.android\build-cache\ba9f5cb7e1643f8ccbdd466f35dd5d8119e15221\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="D:\AndroidCode\Gmail\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_a0d5b191c873cf76d04467860db8ecf8f4abecbb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USUARIO\.android\build-cache\37ed71ee97cf4edd2088246990736b5461799c3d\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="D:\AndroidCode\Gmail\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_06b4ec2e733b4beca28d20df2b5ddfcd591508be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USUARIO\.android\build-cache\ca61a979f79ef8882aca8f2ee2684a3aa8356479\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="D:\AndroidCode\Gmail\app\build\intermediates\pre-dexed\debug\classes_f18e0bb03cd8613bada4d7a24180f885023e20f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USUARIO\.android\build-cache\9abe48615ce277fca78f34a08f26832c6f077cb5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="D:\AndroidCode\Gmail\app\build\intermediates\pre-dexed\debug\classes_135438f14b88e996a2c9ff3d724e7ac582d1bc7c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USUARIO\.android\build-cache\e5494fa24a981d3d2929eb5e8403aed144512589\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="D:\AndroidCode\Gmail\app\build\intermediates\pre-dexed\debug\classes_827994ce15eed58932a6f19666f0abc6ab6fdf0c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USUARIO\.android\build-cache\e83a51156619acca9ccad9502eb274aac8217526\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="D:\AndroidCode\Gmail\app\build\intermediates\pre-dexed\debug\classes_891fb313a8b390a1d087baba8eccc2a1c49b9c77.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USUARIO\.android\build-cache\d74c91df06ea2d4f1b28c6b03339bf205f979f94\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="D:\AndroidCode\Gmail\app\build\intermediates\pre-dexed\debug\classes_76169f6c085f3ad6069154ddc96844bba102a21e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USUARIO\.android\build-cache\d4af0c047f0d736b0615d08a5d7d14a46a7db909\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\AndroidCode\Gmail\app\build\intermediates\pre-dexed\debug\classes_64482ee3a07d20d4fc44264505d9c78a096825e1.jar" />
+    </item>
+
+</items>
